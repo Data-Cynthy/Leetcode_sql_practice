@@ -1,5 +1,5 @@
 # Leetcode_sql_practice
-This repository contains my solutions to SQL problems from LeetCode. It serves as a portfolio to showcase my SQL skills using real-world-like datasets and challenges. Here,
+This repository contains my solutions to SQL problems from LeetCode. It serves as a portfolio to showcase my SQL skills using real-world-like datasets and challenges.
 
 ## Why This?
 I’m currently building my data analysis and SQL skills by solving structured query problems. LeetCode provides a wide range of challenges that simulate real-world scenarios such as:
@@ -7,7 +7,7 @@ I’m currently building my data analysis and SQL skills by solving structured q
 - Customer analytics
 - Sales reporting
 - Referral programs
-- Inventory tracking
+- Inventory tracking, etc
 
 ## Structure
 
