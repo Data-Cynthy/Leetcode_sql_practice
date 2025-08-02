@@ -21,8 +21,7 @@ Write an SQL query to return the names of customers who are either:
 #Query Solution
 SELECT name 
 FROM Customer 
-WHERE referee_id != 2 
-OR referee_id IS NULL
+WHERE referee_id != 2 OR referee_id IS NULL
 
 #Output
 | name |
